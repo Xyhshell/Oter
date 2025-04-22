@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://xyhshell.github.io/jingmo/</loc>
+    <lastmod>2025-04-22</lastmod>
+  </url>
+  <url>
     <loc>http://xyhshell.github.io/jingmoshxlx/</loc>
     <lastmod>2025-04-22</lastmod>
   </url>
   <url>
-    <loc>http://xyhshell.github.io/jingmo/</loc>
+    <loc>http://xyhshell.github.io/hexoconfig/</loc>
     <lastmod>2025-04-22</lastmod>
   </url>
   <url>
@@ -70,10 +74,6 @@
   </url>
   <url>
     <loc>http://xyhshell.github.io/huojing/</loc>
-    <lastmod>2022-06-26</lastmod>
-  </url>
-  <url>
-    <loc>http://xyhshell.github.io/hexoconfig/</loc>
     <lastmod>2022-06-26</lastmod>
   </url>
   <url>
